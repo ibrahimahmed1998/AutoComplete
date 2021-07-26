@@ -1,3 +1,5 @@
 ## AutoComplete
-  Simple Python Script To Auto Complete Search Bar about Names 
-  <img src="im1.png">
+<br>
+<li>  Simple Python Script To Auto Complete Search Bar about Names </li>
+<br>
+ <img src="im1.png">
