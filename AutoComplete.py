@@ -14,6 +14,7 @@ class MainWindow(QMainWindow,FORM_CLASS):       ############
         self.setupUi(self)                      ############
         self.db()
         self.LineEdit()
+        self.setWindowTitle("Auto Complete")
 ################################################
     def db(self):   # Database Connection #
         self.connection = sqlite3.connect("db_file.db")
