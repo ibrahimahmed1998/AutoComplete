@@ -1,5 +1,5 @@
 ## AutoComplete
 <br>
-<li>  Simple Python Script To Auto Complete Search Bar about Names </li>
+<li>  Simple <b>Python Script, SQLITE, PyQt5</b> To Auto Complete Search Bar about Names </li>
 <br>
  <img src="im1.png">
